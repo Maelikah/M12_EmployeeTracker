@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Maelikah/M12_EmployeeTracker/issues"
   },
-  "homepage": "https://github.com/Maelikah/M12_EmployeeTracker#readme"
+  "homepage": "https://github.com/Maelikah/M12_EmployeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.3.3"
+  }
 }
