@@ -143,10 +143,11 @@ Tests Functionality:
 
 - https://shields.io/category/license
 - https://github.com/devicons/devicon/tree/master/icons
+- http://patorjk.com/software/taag/
 - https://www.npmjs.com/package/inquirer
 - https://www.npmjs.com/package/inquirer#answers
 - https://nodejs.org/en/docs
-- https://nodejs.org/api/fs.html
+- https://javascript.info/async-await
 - https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
 
 </br>
