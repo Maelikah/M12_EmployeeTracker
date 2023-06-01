@@ -148,6 +148,9 @@ Tests Functionality:
 - https://www.npmjs.com/package/inquirer#answers
 - https://nodejs.org/en/docs
 - https://javascript.info/async-await
+- https://stackoverflow.com/questions/44004418/node-js-async-await-using-with-mysql
+- https://devdotcode.com/interact-with-mysql-database-using-async-await-promises-in-node-js/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 - https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
 
 </br>
