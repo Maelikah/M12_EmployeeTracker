@@ -151,6 +151,8 @@ Tests Functionality:
 - https://stackoverflow.com/questions/44004418/node-js-async-await-using-with-mysql
 - https://devdotcode.com/interact-with-mysql-database-using-async-await-promises-in-node-js/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+- https://www.freecodecamp.org/news/array-and-object-destructuring-in-javascript/
 - https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
 
 </br>
