@@ -14,3 +14,24 @@ FROM employee
 JOIN role ON employee.role_id = role.id
 JOIN department ON role.department_id = department.id
 LEFT JOIN employee AS manager ON employee.manager_id = manager.id;
+
+
+SELECT employee.id, CONCAT(employee.first_name, ' ', employee.last_name) AS manager_name
+FROM employee
+JOIN role ON employee.role_id = role.id
+WHERE role.department_id = 1 AND employee.manager_id IS NULL;
+
+
+SELECT employee.id, CONCAT(employee.first_name, ' ', employee.last_name) AS manager_name
+FROM employee
+JOIN role ON employee.role_id = role.id
+WHERE role.department_id = ? AND role.title LIKE '%manager%';
+
+SELECT employee.*
+FROM employee
+JOIN role ON employee.role_id = role.id
+JOIN department ON role.department_id = department.id
+WHERE role.title LIKE '%manager%' AND department.id = (
+    SELECT department_id
+    FROM role
+    WHERE title = 'HR Manager');
