@@ -98,12 +98,6 @@ https://github.com/Maelikah/M12_EmployeeTracker
 
 </br>
 
-Code Functionality:
-
-![Code Generation Walkthrough Preview](./assets/Code-Walkthrough.gif)
-
-</br>
-
 User Input Functionality:
 
 ![User Input Walkthrough Preview](./assets/Input-Walkthrough.gif)
