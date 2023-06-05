@@ -110,12 +110,6 @@ User Input Functionality:
 
 </br>
 
-Tests Functionality:
-
-![Tests Walkthrough Preview](./assets/Tests-Walkthrough.gif)
-
-</br>
-
 
 ---
 
@@ -168,7 +162,7 @@ Tests Functionality:
 
 
 
-Type `npm run test` on command line
+NA
 
 
 </br>
